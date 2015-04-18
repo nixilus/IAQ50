@@ -1,6 +1,7 @@
 /*
   Read data from IAQ50 for Arduino
   Use RX and Gnd
+  http://2pi2.ru
  */
 
 char in=0;
